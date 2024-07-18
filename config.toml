@@ -7,16 +7,16 @@ disableKinds = ["taxonomy"]
 
 [params]
     title = "cv/resume"
-    author = "Neline Eyabe"
+    author = "Charles Tima"
     description = "My portfolio"
     copyright = "copyright 2024"
     theme = "dark" # `dark` or `light`
 
     # Profile section
     [params.profile]
-        name = "Neline Eyabe"
+        name = "Charles Tima"
         title = "Data Science."
-        photo = "/images/pic1.jpg"
+        photo = "/images/IMG_4139.JPG"
 
     # Section for links to social websites
     [params.social]
@@ -28,8 +28,8 @@ disableKinds = ["taxonomy"]
         title = "LinkedIn"
 
         [[params.social.list]]
-        icon = "fab fa-github"
-        url = "https://github.com/Nelinekid"
+        icon = "fab fa-github"  
+        url = "https://github.com/Gambi18"
         title = "GitHub"
 		
 		[[params.social.list]]
@@ -48,15 +48,15 @@ disableKinds = ["taxonomy"]
 
         [[params.education.list]]
         degree = "Advance level"
-        college = "Government Balingual High School Yaounde"
-        dates = "2020 - 2021"
+        college = "Sacred Heart College Mankon"
+        dates = "2020 - 2022"
         thesis_title = "Title of the dissertation"
         thesis_link = "#"
 
         [[params.education.list]]
         degree = "ordinary level"
-        college = "CEGET Bonaberi Douala"
-        dates = "2017- 2018"
+        college = "Sacred Heart College Mankon"
+        dates = "2015- 2020"
 
     # Languages section
     [params.language]
@@ -66,9 +66,6 @@ disableKinds = ["taxonomy"]
         language = "English"
         level = "Fluent"
 				
-        [[params.language.list]]
-        language = "French"
-        level = "Basic"
 
     # Interests section
     [params.hobbies]
@@ -81,24 +78,20 @@ disableKinds = ["taxonomy"]
         interest = "Music"
 
         [[params.hobbies.list]]
-        interest = "Cooking"
-
-
-        [[params.hobbies.list]]
-        interest = "gaming"
+        interest = "Gaming"
 
     [params.aboutme]
-        description = "My name is Neline Eyabe,i am a level 300 student at the University  Of Buea with a strong interest Data Science. I am driven by a desire to give innovative solutions,and a passion for problem solvng. I am excited to apply my skills and knowledge to real world projects and contribute to giving meaning and useful data to organizations."
+        description = "My name is Charles Tima,i am a level 300 student at the University  Of Buea with a strong interest Data Science. I am driven by a desire to give innovative solutions,and a passion for problem solvng. I am excited to apply my skills and knowledge to real world projects and contribute to giving meaning and useful data to organizations."
 
     # Experiences section
     [params.experiences]
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Intern at N.TECH"
-        dates = "1 month"
+        position = "Intern"
+        dates = "2 months"
 		link = "#"
-        company = "Network Technologies Yaounde"
+        company = "Active Spaces"
 
 
         [[params.jobs.list]]
@@ -126,17 +119,17 @@ disableKinds = ["taxonomy"]
 
         [[params.skills.list]]
         skill = "html"
-        skillrating = 50 # out of 100
+        skillrating = 70 # out of 100
                 
         [[params.skills.list]]
         skill = "Python programming"
-        skillrating = 45 #
+        skillrating = 30 #
 		
         [[params.skills.list]]
         skill = "Java"
-        skillrating = 30#
+        skillrating = 25#
 
         [[params.skill.list]]
         skill = "Dart"
-        skillrating = 30.5 #
+        skillrating = 10 #
 
