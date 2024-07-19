@@ -15,7 +15,7 @@ disableKinds = ["taxonomy"]
     # Profile section
     [params.profile]
         name = "Charles Tima"
-        title = "Data Science."
+        title = "Data Analyst."
         photo = "/images/IMG_4139.JPG"
 
     # Section for links to social websites
